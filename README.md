@@ -5,9 +5,12 @@
 ## 🖥️ 프로젝트 소개
 서울시 오픈 API(공공와이파이 서비스) 정보를 가져와서 입력한 위치를 기반으로 db에 저장된 다양한 기능 수행
 <br>
+<br>
 
 ## 🕰️ 개발 기간
 * 22.05.22일 - 23.06.11일
+<br>
+<br>
 
 ## ⚙️ 개발 환경 및 라이브러리
 - `JDK 1.8.0`
@@ -17,7 +20,8 @@
 - **OS**: Window
 - gson
 - okhttp3
-
+<br>
+<br>
 ## 💻 기술 스택
 * 백엔드
   * JAVA, JSP
@@ -25,7 +29,8 @@
   * HTML, Javascript
 * 데이터베이스
   * Maria DB
-
+<br>
+<br>
 ## 📌 주요 기능
 #### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
 - DB값 검증
