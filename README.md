@@ -44,7 +44,7 @@
 <br>
 <br>
 
-#### 내 위치 입력 후 근처 WIFI정보 보기
+#### - 내 위치 입력 후 근처 WIFI정보 보기
 ![image](https://github.com/kny5579/Mission1/assets/95288763/431f65f2-bc4c-478e-acaa-cf1f121141b6)
 
 - (현재 제주도에 있는 관계로 거리가 상당히 멀게 나옴)
@@ -53,7 +53,7 @@
 <br>
 <br>
 
-#### 상세정보 보기
+#### - 상세정보 보기
 ![image](https://github.com/kny5579/Mission1/assets/95288763/32cd502c-8633-4c6b-8810-efb749da8eba)
 
 - 와이파이명 클릭 시 상세정보 보기 페이지로 이동
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-#### 위치 히스토리 목록
+#### - 위치 히스토리 목록
 ![image](https://github.com/kny5579/Mission1/assets/95288763/b2d12382-3fa1-478f-adf4-13b9dc719999)
 
 - 근처 와이파이 보기 버튼 클릭시 위치 정보와 조회일자를 히스토리db에 저장하는 기능
@@ -70,7 +70,7 @@
 <br>
 <br>
 
-#### 북마크 그룹 관리
+#### - 북마크 그룹 관리
 ![image](https://github.com/kny5579/Mission1/assets/95288763/c7df564a-4c90-49b4-bbcf-3f06e47e2d26)
 ![image](https://github.com/kny5579/Mission1/assets/95288763/46f9edcd-f830-493b-9f8c-4f6c9dbedf9f)
 ![image](https://github.com/kny5579/Mission1/assets/95288763/7db4463c-de18-4c88-a4ba-df5cc0661ec4)
